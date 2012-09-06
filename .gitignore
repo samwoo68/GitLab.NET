@@ -4,3 +4,5 @@ obj
 
 # mstest test results
 TestResults
+GitLab.NET/_ReSharper.*
+GitLab.NET/packages/*
